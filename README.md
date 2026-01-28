@@ -9,6 +9,7 @@ interfere with the principle hyperspherical directions of pre-edit weights. (c) 
 
 
 ## NEWS
+- 🔥 [2026.1.27] SPHERE is accepted by ICLR 2026.
 - 🔥 [2025.9.29] SPHERE is released.
 
 ## Requirements
@@ -85,11 +86,11 @@ The evaluation results will be stored at the `./Edited_Weight/<alg_name>/<model_
 ## Citation
 If you use this code, please cite our paper:
 ```bibtex
-@article{liu2025energy,
+@inproceedings{liu2025energy,
   title={Energy-Regularized Sequential Model Editing on Hyperspheres},
   author={Liu, Qingyuan and Gu, Jia-Chen and Yao, Yunzhi and Wang, Hong and Peng, Nanyun},
-  journal={arXiv preprint arXiv:2510.01172},
-  year={2025}
+  booktitle={The Fourteenth International Conference on Learning Representations}
+  year={2026}
 }
 ```
 
