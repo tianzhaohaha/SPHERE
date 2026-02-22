@@ -9,7 +9,7 @@ interfere with the principle hyperspherical directions of pre-edit weights. (c) 
 
 
 ## NEWS
-- 🔥 [2026.2.9] SPHERE is supported in [EasyEdit](https://github.com/zjunlp/EasyEdit).
+- 🔥 [2026.2.9] SPHERE is supported in [EasyEdit](https://github.com/zjunlp/EasyEdit/tree/main/easyeditor/models/SPHERE).
 - 🔥 [2026.1.27] SPHERE is accepted by ICLR 2026.
 - 🔥 [2025.9.29] SPHERE is released.
 
