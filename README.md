@@ -1,6 +1,20 @@
-# Energy-Regularized Sequential Model Editing on Hyperspheres
+<div align="center">
+<h1>Energy-Regularized Sequential Model Editing on Hyperspheres</h1>
+
 [![arXiv](https://img.shields.io/badge/arXiv-2510.01172-b31b1b.svg)](https://arxiv.org/abs/2510.01172)
 [![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2510.01172.svg)](https://doi.org/10.48550/arXiv.2510.01172)
+ 
+<p align="center">
+  <a href="#requirements">📦 Installation</a> •
+  <a href="#quick-start">🚀 QuickStart</a> •
+  <a href="https://www.qingyuanliu.net/sphere_projectpage/">🌐 Project Page</a> •
+  <a href="https://github.com/zjunlp/EasyEdit/tree/main/easyeditor/models/SPHERE" target="_blank">✏️ EasyEdit</a> •
+  <a href="https://arxiv.org/abs/2510.01172">📄 Paper</a> •
+  <a href="#">📊 Slides</a> •
+  <a href="#" target="_blank">🎬 Video</a>
+</p>
+</div>
+
 
 
 ![alt text](resource/sphere_sparse.png)
@@ -10,7 +24,7 @@ interfere with the principle hyperspherical directions of pre-edit weights. (c) 
 
 ## NEWS
 - 🔥 [2026.2.9] SPHERE is supported in [EasyEdit](https://github.com/zjunlp/EasyEdit/tree/main/easyeditor/models/SPHERE).
-- 🔥 [2026.1.27] SPHERE is accepted by ICLR 2026.
+- 🔥 [2026.1.27] SPHERE is accepted by ICLR 2026 (Socre: 8884, Top-1.1% in Transfer/Meta/Lifelong Learning track).
 - 🔥 [2025.9.29] SPHERE is released.
 
 ## Requirements
@@ -99,3 +113,4 @@ If you use this code, please cite our paper:
 
 ## Acknowledgment
 Our code is based on  [``MEMIT``](https://github.com/kmeng01/memit.git), [``EMMET``](https://github.com/scalable-model-editing/unified-model-editing.git) and [``AlphaEdit``](https://github.com/jianghoucheng/AlphaEdit.git).
+If you have any questions, please feel free to leave a message at ql2505(at)columbia.edu!
